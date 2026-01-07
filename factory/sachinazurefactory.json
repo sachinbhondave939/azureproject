@@ -1,0 +1,9 @@
+{
+	"name": "sachinazurefactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "befe888b-a7ee-4597-a7b2-1a72d6e3be18",
+		"tenantId": "73db6140-3512-4fb2-ad59-efa6bc08056f"
+	}
+}
